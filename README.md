@@ -1,3 +1,7 @@
+# unsupervisedLearningMT
+
+Master Thesis using:
+
 # icdar17code
 Implementation of: 
 Christlein, Vincent; Gropp, Martin; Fiel, Stefan; Maier, Andreas: "Unsupervised Feature Learning for Writer Identification and Writer Retrieval", ICDAR 2017
